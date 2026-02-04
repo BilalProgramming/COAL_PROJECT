@@ -1,0 +1,10 @@
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(34) : Error A2089: Cannot access label through segment registers: val1
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(42) : Error A2089: Cannot access label through segment registers: val2
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(56) : Error A2089: Cannot access label through segment registers: val1
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(57) : Error A2089: Cannot access label through segment registers: val2
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(61) : Error A2089: Cannot access label through segment registers: val1
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(62) : Error A2089: Cannot access label through segment registers: val2
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(66) : Error A2089: Cannot access label through segment registers: val1
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(67) : Error A2089: Cannot access label through segment registers: val2
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(71) : Error A2089: Cannot access label through segment registers: val1
+c:\Users\CZ\OneDrive\Desktop\COAL_PROJECT\ALU-Sim.temp.asm(72) : Error A2089: Cannot access label through segment registers: val2
